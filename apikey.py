@@ -1,3 +1,3 @@
-SENDGRID_API_KEY=['Get Your API key from sendgrid']
-TO_EMAIL = 'mail@examples.com'
-FROM_EMAIL = 'mail2@examples.com'
+SENDGRID_API_KEY=['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']
+TO_EMAIL = 'agolho@gmail.com'
+FROM_EMAIL = 'i.yusufbektas@gmail.com'
